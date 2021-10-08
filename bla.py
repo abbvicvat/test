@@ -1,0 +1,1 @@
+print("markus är ful\n" * 100)
